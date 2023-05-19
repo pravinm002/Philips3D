@@ -1,0 +1,254 @@
+{
+  "allRoundData": [
+    {
+      "name": "Ride a Bike",
+      "questions": [
+        {
+          "questionText": "Good planning and design, while crucial for every type of training program, are even more important for e-learning projects. State true or false.",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "True",
+              "Feedback": "The statement is indeed true! In traditional classroom training, the largest effort goes into delivering of training sessions, while in e-learning, it is in the design and development of the materials. Well planned and designed e-learning is self-contained and can often be used multiple times without making ongoing adjustments. ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "False",
+              "Feedback": "The statement is actually true! In traditional classroom training, the largest effort goes into delivering of training sessions, while in e-learning, it is in the design and development of the materials. Well planned and designed e-learning is self-contained and can often be used multiple times without making ongoing adjustments. ",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "The 'ADDIE' model is a framework for developing effective training material. What does the A in ADDIE stand for?",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "Analysis",
+              "Feedback": "That is correct! Analysis is the first stage of the ADDIE process, the other stages being Design, Development, Implementation and Evaluation. Analyzing the learning needs and content is essential to ensure learners’ motivation and participation. ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Assessment",
+              "Feedback": "Sorry! The A actually stands for Analysis, the first stage of the ADDIE process, the other stages being Design, Development, Implementation and Evaluation. Analyzing the learning needs and content is essential to ensure learners’ motivation and participation. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Action",
+              "Feedback": "Sorry! The A actually stands for Analysis, the first stage of the ADDIE process, the other stages being Design, Development, Implementation and Evaluation. Analyzing the learning needs and content is essential to ensure learners’ motivation and participation. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Acknowledgment",
+              "Feedback": "Sorry! The A actually stands for Analysis, the first stage of the ADDIE process, the other stages being Design, Development, Implementation and Evaluation. Analyzing the learning needs and content is essential to ensure learners’ motivation and participation. ",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Get a Ferry Ride",
+      "questions": [
+        {
+          "questionText": "If an individual is unable to perform well at their job, then training or other learning activities are the only solution. State true or false.",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "True",
+              "Feedback": "The statement is actually false! Training may not always be the only solution. Performance problems can also result from environmental factors, such as bad data, outdated tools or poor incentives",
+              "isCorrect": false
+            },
+            {
+              "answerText": "False",
+              "Feedback": "The statement is indeed false! Training may not always be the only solution. Performance problems can also result from environmental factors, such as bad data, outdated tools or poor incentives. ",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "You have identified a specific performance gap you believe can be addressed with an e-learning course. What should you do next?",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "Arm the target audience with as much information as possible",
+              "Feedback": "That is incorrect! The likelihood of developing an effective e‑learning course increases when more relevant information is collected on learners. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Assess what the target audience must learn in order to close that gap",
+              "Feedback": "That is correct! The likelihood of developing an effective e‑learning course increases when more relevant information is collected on learners. ",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hitch a Tram Ride",
+      "questions": [
+        {
+          "questionText": "Adult learners differ from student learners in some respects, which can influence the design of learning programs. Which one of the following is NOT a characteristic of adult learners?",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "They need to know why they have to learn something",
+              "Feedback": "That is incorrect! Adult learners actually prefer to approach learning with a problem solving mindset. Also, most adult learners prefer to study at a time, place and pace convenient for them. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "They like to learn experientially",
+              "Feedback": "That is incorrect! Adult learners actually prefer to approach learning with a problem solving mindset. Also, most adult learners prefer to study at a time, place and pace convenient for them. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "They do not prefer a problem-solving approach to learning",
+              "Feedback": "That is correct! Adult learners actually prefer to approach learning with a problem solving mindset. Also, most adult learners prefer to study at a time, place and pace convenient for them.",
+              "isCorrect": true
+            },
+            {
+              "answerText": "They learn better where they can see the immediate value and application of content",
+              "Feedback": "That is incorrect! Adult learners actually prefer to approach learning with a problem solving mindset. Also, most adult learners prefer to study at a time, place and pace convenient for them. ",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "A variety of factors about your intended learners can influence the course design. Which of the following should you consider when analyzing your target audience?",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "Region or geographic area in which they reside",
+              "Feedback": "That is incorrect! All of the factors listed above are important considerations for identifying specific learning objectives for each target audience group, defining the complexity of computer-based interactivities, deciding the language(s) of the training, etc. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Their previous knowledge and experience on the subject",
+              "Feedback": "That is incorrect! All of the factors listed above are important considerations for identifying specific learning objectives for each target audience group, defining the complexity of computer-based interactivities, deciding the language(s) of the training, etc. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Their computer skills and technical expertise",
+              "Feedback": "That is incorrect! All of the factors listed above are important considerations for identifying specific learning objectives for each target audience group, defining the complexity of computer-based interactivities, deciding the language(s) of the training, etc. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Their work environment and their professional role(s) within them",
+              "Feedback": "That is incorrect! All of the factors listed above are important considerations for identifying specific learning objectives for each target audience group, defining the complexity of computer-based interactivities, deciding the language(s) of the training, etc. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All of the above",
+              "Feedback": "That is correct! All of the factors listed above are important considerations for identifying specific learning objectives for each target audience group, defining the complexity of computer-based interactivities, deciding the language(s) of the training, etc. ",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Find a Footbridge",
+      "questions": [
+        {
+          "questionText": "Which type of skills can be developed using e-learning?",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "Cognitive skills only, which include knowledge and comprehension, procedural skills and problem solving  ",
+              "Feedback": "Not quite! Most e-learning courses are developed to build cognitive skills; however, learning in the interpersonal domain can also be addressed in e-learning by using specific methods like interactive role playing with appropriate feedback. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Cognitive skills and some interpersonal skills such as active listening, presenting, negotiating, etc. ",
+              "Feedback": "That is correct! Most e-learning courses are developed to build cognitive skills; however, learning in the interpersonal domain can also be addressed in e-learning by using specific methods like interactive role playing with appropriate feedback. ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Some interpersonal skills only",
+              "Feedback": "Not quite! Most e-learning courses are developed to build cognitive skills; however, learning in the interpersonal domain can also be addressed in e-learning by using specific methods like interactive role playing with appropriate feedback. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Every skill under the sun including psychomotor skills such as learning a sport or driving a car",
+              "Feedback": "Not quite! Most e-learning courses are developed to build cognitive skills; however, learning in the interpersonal domain can also be addressed in e-learning by using specific methods like interactive role playing with appropriate feedback. ",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "When a course is job-oriented, conducting a task analysis is a good way to ensure that you are including relevant content. State true or false.",
+          "isMCMS":false,
+		  "answers": [
+            {
+              "answerText": "True",
+              "Feedback": "The statement is indeed true! A detailed analysis of actions and decisions that a person takes to perform their job task will help you to identify the knowledge and skills that you will need to support with training. ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "False",
+              "Feedback": "The statement is actually true! A detailed analysis of actions and decisions that a person takes to perform their job task will help you to identify the knowledge and skills that you will need to support with training. ",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Find a Metro Travel Card",
+      "questions": [
+        {
+          "questionText": "Learning objectives describe behaviors that learners should exhibit as a result of participating in the course. Well-written learning objectives should include all of the following except:",
+		 "isMCMS":false,         
+		 "answers": [
+            {
+              "answerText": "An estimate of cost",
+              "Feedback": "That is correct! Ideally, learning objectives should include a description of a desired behavior or competency, the condition under which the learner is expected to perform and the criteria for acceptable performance. Additionally, it is important that the course objectives are relevant for the learners and meet their existing needs. ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Desired behavior",
+              "Feedback": "That is incorrect! Ideally, learning objectives should include a description of a desired behavior or competency, the condition under which the learner is expected to perform and the criteria for acceptable performance. Additionally, it is important that the course objectives are relevant for the learners and meet their existing needs. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Conditions under which behavior is to occur",
+              "Feedback": "That is incorrect! Ideally, learning objectives should include a description of a desired behavior or competency, the condition under which the learner is expected to perform and the criteria for acceptable performance. Additionally, it is important that the course objectives are relevant for the learners and meet their existing needs. ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Acceptable performance criteria",
+              "Feedback": "That is incorrect! Ideally, learning objectives should include a description of a desired behavior or competency, the condition under which the learner is expected to perform and the criteria for acceptable performance. Additionally, it is important that the course objectives are relevant for the learners and meet their existing needs. ",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Which of the following are benefits of writing clear learning objectives during the planning process of your course? Select all that apply.",
+          "isMCMS":true,
+		  "answers": [
+            {
+              "answerText": "Gives the learners a clear idea of what to expect to learn and what is expected of them after the course",
+              "Feedback": "That is correct! For maximum effectiveness, make sure the learning objectives for your course are Specific, Measurable, Achievable, Realistic and Time-bound (SMART). ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Gives the instructional designer a goal to achieve in presenting the content of the course ",
+              "Feedback": "That is correct! For maximum effectiveness, make sure the learning objectives for your course are Specific, Measurable, Achievable, Realistic and Time-bound (SMART). ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Forms the basis for evaluating the learners and effectiveness of the course ",
+              "Feedback": "That is correct! For maximum effectiveness, make sure the learning objectives for your course are Specific, Measurable, Achievable, Realistic and Time-bound (SMART). ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Informs the learner where to find answers to the quiz questions",
+              "Feedback": "Not quite! The correct options are marked. For maximum effectiveness, make sure the learning objectives for your course are Specific, Measurable, Achievable, Realistic and Time-bound (SMART). ",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
